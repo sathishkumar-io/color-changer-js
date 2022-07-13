@@ -1,5 +1,7 @@
 <h1 align="center">Color Changer</h1>
 
+![Screenshot](https://raw.githubusercontent.com/sathishkumar-io/color-changer-js/main/assets/img/screenshot.png)
+
 This Color Changer will helps to change the background color and text color. In addition, custom text option added.
 
 ## Features:
